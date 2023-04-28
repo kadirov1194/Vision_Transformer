@@ -79,7 +79,7 @@ Dropout rate.
 emb_dropout: float between [0, 1], default 0.
 Embedding dropout rate.
 pool: string, either cls token pooling or mean pooling
-
+.
 Distillation
 https://github.com/lucidrains/vit-pytorch/raw/main/images/distill.png
 
