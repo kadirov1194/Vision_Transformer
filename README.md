@@ -83,3 +83,4 @@ pool: string, either cls token pooling or mean pooling
 Distillation
 https://github.com/lucidrains/vit-pytorch/raw/main/images/distill.png
 
+........
