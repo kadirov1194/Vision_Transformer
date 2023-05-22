@@ -51,11 +51,6 @@ For a Pytorch implementation with pretrained models, please see Ross Wightman's 
 
 The official Jax repository is here.
 
-A tensorflow2 translation also exists here, created by research scientist Junho Kim! 🙏
-
-Flax translation by Enrico Shippole!
-
-
 Parameters
 image_size: int.
 Image size. If you have rectangular images, make sure your image size is the maximum of the width and height
